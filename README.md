@@ -1,6 +1,6 @@
 # GreenBite – Analyseur nutritionnel
 
-*Par **Kahina Ait Kaci Arab**, **Farid Ait Salem**, **Ilicia Benaoudia** et **Leticia Ben Aoudia**.*
+*Par **Kahina Ait Kaci Arab**, **Farid Ait Salem**, **Ilicia Benaoudia** et **Leticia Benaoudia**.*
 
 GreenBite est une application web développée avec **Dash** (Python) qui aide à faire des choix alimentaires plus sains :
 
@@ -101,4 +101,4 @@ assets/                 CSS (styles.css) et images, servis automatiquement par D
 - **Kahina Ait Kaci Arab**
 - **Farid Ait Salem**
 - **Ilicia Benaoudia**
-- **Leticia Ben Aoudia**
+- **Leticia Benaoudia**

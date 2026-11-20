@@ -11,7 +11,7 @@ def create_footer():
                 html.H5("GreenBite", className="text-white"),
                 html.P("Pour des choix alimentaires sains et éclairés", className="mb-1"),
                 html.Small(
-                    "Réalisé par Kahina Ait Kaci Arab, Farid Ait Salem, Ilicia Benaoudia et Leticia Ben Aoudia",
+                    "Réalisé par Kahina Ait Kaci Arab, Farid Ait Salem, Ilicia Benaoudia et Leticia Benaoudia",
                     className="d-block",
                 ),
             ], className="col-md-6"),
