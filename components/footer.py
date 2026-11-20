@@ -9,7 +9,11 @@ def create_footer():
         html.Div([
             html.Div([
                 html.H5("GreenBite", className="text-white"),
-                html.P("Pour des choix alimentaires sains et éclairés", className="mb-0"),
+                html.P("Pour des choix alimentaires sains et éclairés", className="mb-1"),
+                html.Small(
+                    "Réalisé par Kahina Ait Kaci Arab, Farid Ait Salem, Ilicia Benaoudia et Leticia Ben Aoudia",
+                    className="d-block",
+                ),
             ], className="col-md-6"),
             html.Div([
                 html.P([

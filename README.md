@@ -1,5 +1,7 @@
 # GreenBite – Analyseur nutritionnel
 
+*Par **Kahina Ait Kaci Arab**, **Farid Ait Salem**, **Ilicia Benaoudia** et **Leticia Ben Aoudia**.*
+
 GreenBite est une application web développée avec **Dash** (Python) qui aide à faire des choix alimentaires plus sains :
 
 - **Analyse de produit** : recherche par nom, par code-barres, par photo ou par webcam. Affiche le Nutri-Score, la composition nutritionnelle pour une portion donnée et le pourcentage des apports de référence.
@@ -93,3 +95,10 @@ assets/                 CSS (styles.css) et images, servis automatiquement par D
 
 - La recherche par nom d'OpenFoodFacts est limitée par l'API (~10 requêtes/minute) : en cas de saturation, seuls les résultats CIQUAL s'affichent. Les recherches déjà faites sont mises en cache.
 - Les ingrédients d'une recette sont conservés pendant la session du navigateur (ils sont perdus à la fermeture de l'onglet).
+
+## Auteurs
+
+- **Kahina Ait Kaci Arab**
+- **Farid Ait Salem**
+- **Ilicia Benaoudia**
+- **Leticia Ben Aoudia**
